@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: pink;
+}
+
+.board {
+  background-color: white;
+}
+
+.play {
+  position: relative;
+  top: 100px;
+}
